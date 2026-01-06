@@ -55,7 +55,7 @@
 ## 🛠 Languages Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 </p>
 
 ---
