@@ -17,7 +17,8 @@
   written with clarity, performance, and interview-readiness in mind.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=600&lines=Solving+DSA+One+Problem+at+a+Time+⚡;Optimized+%26+Readable+Solutions+💡;Interview+Focused+Approach+🚀;Consistency+Beats+Talent+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=600&lines=Solving+DSA+One+Problem+at+a+Time;Optimized+and+Readable+Solutions;Interview+Focused+Approach;Consistency+Beats+Talent" />
+
 
 </div>
 
