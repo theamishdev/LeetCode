@@ -12,11 +12,10 @@
   DSA • Algorithms • Clean Solutions • Zero Fluff
 </h3>
 
-<p style="color:#dcdcdc; max-width: 700px;">
-  A curated collection of <b>LeetCode problems & optimized solutions</b>,  
-  written with clarity, performance, and interview-readiness in mind.
-</p>
-
+⚡ Solving DSA one problem at a time  
+💡 Optimized & readable solutions  
+🚀 Interview-focused approach  
+🔥 Consistency beats talent  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=600&lines=Solving+DSA+One+Problem+at+a+Time;Optimized+and+Readable+Solutions;Interview+Focused+Approach;Consistency+Beats+Talent" />
 
 
