@@ -64,16 +64,5 @@
 
 ```txt
 📦 LeetCode-Solutions
- ┣ 📁 Arrays
- ┣ 📁 Strings
- ┣ 📁 LinkedList
- ┣ 📁 Stack_Queue
- ┣ 📁 Hashing
- ┣ 📁 Two_Pointers
- ┣ 📁 Sliding_Window
- ┣ 📁 Binary_Search
- ┣ 📁 Recursion
- ┣ 📁 Dynamic_Programming
- ┣ 📁 Trees
- ┣ 📁 Graphs
+ ┣ 📁 All questions sequence wise
  ┗ 📄 README.md
