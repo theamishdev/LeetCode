@@ -7,7 +7,6 @@ public:
                 sum+=x;
             }
         }
-        return num==sum;
-        return 0;
+        return (num==sum)?true:false;
     }
 };
